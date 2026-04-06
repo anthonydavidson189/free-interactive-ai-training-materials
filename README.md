@@ -10,11 +10,9 @@
 
 ## Why this exists
 
-It's hard to deny that AI agents, LLMs and other tools are everywhere now. New approaches and products appear much faster than guardrails and practices on safe use of those tools. While regular phishing is relatively known problem, fast AI propagation created a lot of never before seen attack vectors like prompt injection. This library aims to fix that at least a little bit in the aspect of raising awareness and giving people skills on how to not become a victim of AI cyberattack.
+AI agents, LLMs, and autonomous tools are being adopted faster than the security practices meant to govern them. While threats like phishing are well-understood, the AI wave has introduced attack vectors that most people have never encountered — prompt injection, RAG exploitation, and more.
 
-**This library takes a different approach.**
-
-Every exercise drops you into an interactive 3D office environment where you face realistic scenarios in first-person. You interact with real objects — a phone, a PC running a live OS (browser, terminal, Zoom), a flipchart — and make decisions under pressure, just like you would at your desk.
+The problem isn't awareness alone. Most security training is passive: slide decks and videos that people click through and forget. This library takes a different approach. Every exercise drops you into an interactive 3D office environment where you face realistic scenarios in first-person. You interact with real objects — a phone, a PC running a live OS (browser, terminal, Zoom), a flipchart — and make decisions under pressure, just like you would at your desk.
 
 Scenarios include things like:
 
